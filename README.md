@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mahin
 #### trying to speed up.
-![trying to speed up.](https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47yqa052vutzwnedfp751h6b7ujmhuq9m1ek0qre6v&rid=giphy.gif&ct=g)
-
+![trying to speed up.][(https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47yqa052vutzwnedfp751h6b7ujmhuq9m1ek0qre6v&rid=giphy.gif&ct=g)
+](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/310066604_1862032294143167_9170679974280697515_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGXvlVQ-AZpUuwDXnuRt30ctDUCxhfSiV60NQLGF9KJXig9PMhhKYih48_hY3FAlI8K_ilV_yhp155j-w4gNQWm&_nc_ohc=LpJ5opArJrQAX_LKGC8&_nc_ht=scontent.fdac7-1.fna&oh=00_AfBJReIHBzCJj-bSIkV1AtzGxJPfx-L5Hgojx9TFrgpydQ&oe=63B2AEEE)
 working on self development.
 
 Skills: C / CPP / PYTHON
