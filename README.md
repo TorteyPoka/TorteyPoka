@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Mahin
 #### trying to speed up.
+I have ambition of being a game developer and work with AI to accomplish AI based game platform.
 working on self development.
 
 Skills: C / CPP
